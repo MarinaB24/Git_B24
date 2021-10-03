@@ -14,5 +14,9 @@ public class Fourth {
     public static void main(String[] args) {
 
         System.out.println("5");
+
+        System.out.println("star");
+
+        System.out.println("Outside is raining, today is october 3rd");
     }
 }
