@@ -19,4 +19,8 @@ public class Fourth {
 
         System.out.println("Outside is raining, today is october 3rd");
     }
-}
+        public static void m(){
+            System.out.println(6);
+        }
+    }
+
